@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaswanth Reddy</h1>
 <h3 align="center">Uniting Tech & Dreams: 2023 Grad | Networking Explorer 🚀</h3>
 
-🌱 I’m currently learning **DEVOPS & AWS**
+👨‍💻 I’m currently learning **DEVOPS & AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
